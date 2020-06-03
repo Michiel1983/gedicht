@@ -2,4 +2,6 @@ blauw
 geel 
 rood
 paars
+groen
+roze
 zijn de kleuren van de regenboog
