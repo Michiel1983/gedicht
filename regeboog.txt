@@ -1,8 +1,9 @@
 blauw
 oranje
+unicorn
 geel 
 rood
 paars
 groen
 roze
-zijn de kleuren van de regenboog
+zijn de kleuren van de regenboog en van de unicorn
